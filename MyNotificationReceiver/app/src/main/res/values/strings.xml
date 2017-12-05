@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MyNotificationReceiver</string>
+    <string name="action_name">com.example.sadowsm3.MY_ACTION</string>
+</resources>
